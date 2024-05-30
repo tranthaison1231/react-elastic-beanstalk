@@ -5,3 +5,4 @@
 ## Ref
 
 - https://www.honeybadger.io/blog/deploying-react-to-elastic-beanstalk/
+- https://dev.to/sourabpramanik/deploy-your-react-app-using-docker-and-nginx-14lk
