@@ -37,7 +37,7 @@ jobs:
           application_name: react-app
           environment_name: react-app-dev
           version_label: "app-${{ steps.format-time.outputs.replaced }}"
-          region: us-west-2
+          region: ap-southeast-1
           deployment_package: react-app.zip
 
       - name: Deployed!
